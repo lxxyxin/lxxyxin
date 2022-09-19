@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱INHA University, History & Computer Science Engineering
+🌱Inha University, History & Computer Science Engineering
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yxin)](https://solved.ac/yxin/)   
