@@ -2,6 +2,9 @@
 
 🌱Inha University, History & Computer Science Engineering
 
+Programming Languages
+
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C++-#00599C?style=flat&logo=C++&logoColor=#00599C"/></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yxin)](https://solved.ac/yxin/)   
 
