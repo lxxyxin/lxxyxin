@@ -2,11 +2,13 @@
 
 🌱Inha University, History & Computer Science Engineering
 
-Programming Languages
+<img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C++-#00599C?style=flat&logo=C++&logoColor=#00599C"/></a>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yxin)](https://solved.ac/yxin/)   
+
+
 
 <!--
 **lxxyxin/lxxyxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
