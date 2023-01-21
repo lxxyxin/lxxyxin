@@ -2,11 +2,23 @@
 
 🌱Inha University, History & Computer Science Engineering
 
-<img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+
+**Tech blog**
+
+<a href="https://velog.io/@lxxyxin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+ 
+ **Programming Languages**
+ 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+
+**Interest**
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yxin)](https://solved.ac/yxin/)   
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=yxin)](https://solved.ac/yxin)   
 
 
 
