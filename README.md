@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-🌱Inha University, History & Computer Science Engineering
+**Inha University, History & Computer Science Engineering**
 
 
 **Tech blog**
