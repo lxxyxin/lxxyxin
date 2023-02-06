@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yerin
 
 **Inha University, History & Computer Science Engineering**
 
