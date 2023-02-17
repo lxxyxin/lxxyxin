@@ -1,7 +1,11 @@
-## Yerin
+## Lee Yerin
 
-**Inha University, History & Computer Science Engineering**
+**Inha University, History & Computer Science Engineering 20'**
 
+**Experience**
+
+**Google Developers Student Club Inha** Core Member 2023.02 - now
+**GDG X GDSC devfest 2022** Staff 2022.11-12
 
 **Tech blog**
 
