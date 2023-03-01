@@ -1,13 +1,16 @@
 ## Lee Yerin
 
+**Education**
+
 **Inha University, History & Computer Science Engineering 20'**
+<br></br>
 
 **Experience**
 
 **Google Developers Student Club Inha** Core Member 2023.02 - now
 
 **GDG X GDSC devfest 2022** Staff 2022.11-12
-
+<br></br>
 **Tech blog**
 
 <a href="https://velog.io/@lxxyxin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
