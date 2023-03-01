@@ -11,6 +11,7 @@
 
 **GDG X GDSC devfest 2022** Staff 2022.11-12
 <br></br>
+
 **Tech blog**
 
 <a href="https://velog.io/@lxxyxin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
