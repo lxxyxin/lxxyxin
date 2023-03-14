@@ -7,9 +7,9 @@
 
 **Experience**
 
-**Google Developers Student Club Inha** Core Member 2023.02 - now
+**Google Developers Student Club Inha** Core Member <sup>2023.02 - now</sup>
 
-**GDG X GDSC devfest 2022** Staff 2022.11-12
+**GDG X GDSC devfest 2022** Staff <sup>2022.11-12</sup>
 <br></br>
 
 **Tech blog**
