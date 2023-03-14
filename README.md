@@ -2,7 +2,7 @@
 
 **Education**
 
-**Inha University, History & Computer Science Engineering 20'**
+**Inha University, History & Computer Science Engineering 20**
 <br></br>
 
 **Experience**
