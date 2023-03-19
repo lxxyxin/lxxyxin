@@ -7,7 +7,7 @@
 
 **Experience**
 
-**University MakeUs Challenge - INHA** Server - Spring member <sup>2023.03 - now</sup>
+**University MakeUs Challenge - Inha** Server - Spring member <sup>2023.03 - now</sup>
 
 **Google Developers Student Club Inha** devRel Core <sup>2023.02 - now</sup>
 
