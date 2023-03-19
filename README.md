@@ -7,6 +7,8 @@
 
 **Experience**
 
+**University MakeUs Challenge - INHA** Server - Spring member <sup>2023.03 - now</sup>
+
 **Google Developers Student Club Inha** Core Member <sup>2023.02 - now</sup>
 
 **GDG X GDSC devfest 2022** Staff <sup>2022.11-12</sup>
