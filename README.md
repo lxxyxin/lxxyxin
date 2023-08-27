@@ -1,11 +1,11 @@
 ## Lee Yerin
 
-**Education**
+**🏫Education**
 
 **Inha University, History & Computer Science Engineering 20**
 <br></br>
 
-**Experience**
+**🚀Experience**
 
 **Google Developers Student Club Inha 3rd** Tech Core <sup>2023.07 - now</sup>
 
@@ -13,8 +13,16 @@
 
 **Google Developers Student Club Inha 2nd** devRel Core <sup>2023.02 - 07</sup>
 
-
 **GDG X GDSC devfest 2022** Staff <sup>2022.11-12</sup>
+<br></br>
+
+
+**🏆Awards**
+
+**University MakeUs Challenge 4th IDEATHON** 1st (대상) <sup>2023.05</sup>
+
+**University MakeUs Challenge 4th** 스터디 우수상 <sup>2023.08</sup>
+
 <br></br>
 
 **Tech blog**
