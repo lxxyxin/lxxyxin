@@ -1,11 +1,11 @@
 ## Lee Yerin
 
-**🏫Education**
+**🏫 Education**
 
 **Inha University, History & Computer Science Engineering 20**
 <br></br>
 
-**🚀Experience**
+**🚀 Experience**
 
 **Google Developers Student Club Inha 3rd** Tech Core <sup>2023.07 - now</sup>
 
@@ -17,14 +17,12 @@
 <br></br>
 
 
-**🏆Awards**
+**🏆 Awards**
 
 **University MakeUs Challenge 4th IDEATHON** 1st (대상) <sup>2023.05</sup>
 
 **University MakeUs Challenge 4th** 스터디 우수상 <sup>2023.08</sup>
-
 <br></br>
-
 **Tech blog**
 
 <a href="https://velog.io/@lxxyxin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
