@@ -18,13 +18,6 @@
 **GDG X GDSC devfest 2022** Staff <sup>2022.11-12</sup>
 <br></br>
 
-
-**🏆 Awards**
-
-**University MakeUs Challenge 4th IDEATHON** 1st (대상) <sup>2023.05</sup>
-
-**University MakeUs Challenge 4th** 스터디 우수상 <sup>2023.08</sup>
-<br></br>
 **Tech blog**
 
 <a href="https://velog.io/@lxxyxin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
