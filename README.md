@@ -9,11 +9,11 @@
 
 **SOPT 34th** Server part <sup>2024.03 - now</sup>
 
-**Google Developers Student Club Inha 3rd** Tech Core <sup>2023.07 - now</sup>
+**GDSC Inha 3rd** Tech Core <sup>2023.07 - now</sup>
 
-**University MakeUs Challenge 4th - Inha** Server part member <sup>2023.03 - 08</sup>
+**UMC 4th - Inha** Server part member <sup>2023.03 - 08</sup>
 
-**Google Developers Student Club Inha 2nd** devRel Core <sup>2023.02 - 07</sup>
+**GDSC Inha 2nd** devRel Core <sup>2023.02 - 07</sup>
 
 **GDG X GDSC devfest 2022** Staff <sup>2022.11-12</sup>
 <br></br>
