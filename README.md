@@ -9,8 +9,9 @@
 <br></br>
 
 **🚀 Experience**
+**SOPT 35th** Server part OB <sup>2024.08 - 2025.01</sup>
 
-**SOPT 34th** Server part <sup>2024.03 - 07</sup>
+**SOPT 34th** Server part YB <sup>2024.03 - 07</sup>
 
 **GDSC Inha 3rd** Tech Core <sup>2023.07 - 2024.07</sup>
 
