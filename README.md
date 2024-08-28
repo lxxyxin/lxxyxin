@@ -1,6 +1,6 @@
 ## Lee Yerin
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/lxxyxin"/>
+  <img src="https://render.gitanimals.org/farms/lreowy"/>
 </a>
 
 **🏫 Education**
